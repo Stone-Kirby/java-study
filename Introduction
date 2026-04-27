@@ -1,2 +1,31 @@
 # 자바 입문
 
+------ ## 기본
+
+자바 언어는 대소문자 구별
+
+//
+public class HelloJava {
+
+    public static void main(String[] args) {
+        System.out.println("hello java");
+    }
+}
+//
+
+클레스: HelloJava
+{} 는 범위(클래스 범위, 블록)
+
+'public static void main()'을 찾아서 시작
+
+'System.out.println("")' 콘솔 출력
+
+------ ## 주석
+
+// 한 줄 주석
+/*
+여러줄 주석
+*/
+
+------ ## 자바?
+
